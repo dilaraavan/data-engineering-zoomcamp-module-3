@@ -13,7 +13,7 @@ Data Used:
 
 ---
 
-### Question 1. What is count of records for the 2024 Yellow Taxi Data? (1 point)
+### Question 1. What is count of records for the 2024 Yellow Taxi Data?
 
 - 65,623  
 - 840,402  

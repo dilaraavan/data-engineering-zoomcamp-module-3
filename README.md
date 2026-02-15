@@ -22,6 +22,8 @@ Data Used:
 
 📄 SQL file: sql/q1_total_records.sql
 
+![Question 1: Total Records](images/q1_total_records.png)
+
 **Answer:** 20,332,093
 
 ---
@@ -58,6 +60,8 @@ Data Used:
 - 8,333  
 
 📄 SQL file: sql/q4_zero_fare.sql
+
+![Question 4: Zero Fare Records](images/q4_zero_fare.png)
 
 **Answer:** 8,333
 

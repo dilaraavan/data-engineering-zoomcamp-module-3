@@ -11,6 +11,12 @@ Data Used:
   - Materialized Table: `yellow_taxi`
   - Partitioned + Clustered Table: `yellow_taxi_partitioned`
 
+### Cloud Storage Bucket Data
+This image shows the data files stored in my Cloud Storage bucket.
+
+<img src="images/cloud_storage_bucket_data.png" alt="Cloud Storage Bucket Data" width="500"/>
+
+
 ---
 
 ### Question 1. What is count of records for the 2024 Yellow Taxi Data?
@@ -22,7 +28,7 @@ Data Used:
 
 📄 SQL file: sql/q1_total_records.sql
 
-![Question 1: Total Records](images/q1_total_records.png)
+<img src="images/q1_total_records.png" alt="Question 1: Total Records - 20,332,093" width="500"/>
 
 **Answer:** 20,332,093
 
@@ -61,7 +67,7 @@ Data Used:
 
 📄 SQL file: sql/q4_zero_fare.sql
 
-![Question 4: Zero Fare Records](images/q4_zero_fare.png)
+<img src="images/q4_zero_fare.png" alt="Question 4: Zero Fare Records - 8,333" width="500"/>
 
 **Answer:** 8,333
 
